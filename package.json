@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/egnyte/wopi-proof-validator#readme",
   "dependencies": {
-    "bignum": "0.13.0"
+    "big-integer": "^1.6.48",
+    "crypto": "^1.0.1",
+    "debug": "^4.2.0",
+    "rsa-pem-from-mod-exp": "^0.8.4"
   }
 }
